@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>problem1.Baseballplayer</OriginalElement>
+  <nodes>
+    <node x="0.0" y="214.0">problem1.Baseballplayer</node>
+    <node x="97.0" y="0.0">problem1.Athlete</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="problem1.Baseballplayer" target="problem1.Athlete" relationship="GENERALIZATION">
+      <point x="0.0" y="-60.0" />
+      <point x="0.0" y="82.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="241.5" y="167.0" />
+  <SelectedNodes>
+    <node>problem1.Baseballplayer</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
